@@ -36,8 +36,7 @@
         "default": "Ctrl+Shift+K",
         "mac": "Command+Shift+K"
       },
-      "description": "Search saved sessions",
-      "global": true
+      "description": "Search saved sessions"
     }
   }
 }
